@@ -93,7 +93,7 @@ module.exports = {
   "@stylistic/space-infix-ops": ["error"],
   "@stylistic/space-unary-ops": ["error", { "words": true, "nonwords": false }],
   "@stylistic/spaced-comment": ["error", "always"],
-  "@stylistic/switch-colon-spacing": ["error", { "before": true, "after": false }],
+  "@stylistic/switch-colon-spacing": ["error", { "before": false, "after": true }],
   "@stylistic/template-curly-spacing": ["error", "never"],
   "@stylistic/template-tag-spacing": ["error", "never"],
   "@stylistic/type-annotation-spacing": ["error", { "before": false, "after": true }],
