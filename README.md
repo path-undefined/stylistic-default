@@ -3,7 +3,7 @@
 To initialized the ESLint for a project:
 
 ```console
-$ npm i -D eslint @stylstic/eslint-plugin @typescript-eslint/parser
+$ npm i -D eslint @stylistic/eslint-plugin @typescript-eslint/parser
 ```
 
 Install this package using following command:
